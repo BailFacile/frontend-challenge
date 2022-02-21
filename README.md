@@ -17,5 +17,8 @@ We data that should be used is available in the attached applicants.json file.
 
 When clicking on an applicant, details are displayed on the right side in a drawer component. We then have the possibility to add a rating to the application with a star system from 1 to 5.
 
-## Wireframes
+## Mockups
 
+![Main screen](/main-screen.png "Main screen")
+
+![Drawer open](/drawer-open.png "Drawer open")
