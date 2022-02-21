@@ -27,6 +27,12 @@ When clicking on an applicant in the table (each row should be clickable), **det
 
 ![Drawer open](/drawer-open.png "Drawer open")
 
+## ⭐ Bonus
+
+#### Load applicants with an API call
+
+Instead of importing applicants data directly from the Json file into your code, use [Next.js API routes](https://nextjs.org/docs/api-routes/introduction) to mock an API that will return the data. You can use [React Query](https://github.com/tannerlinsley/react-query) to fetch the data and the [Context API](https://reactjs.org/docs/context.html) of React to pass it to your component for example, but you are of course free to use your preferred method and packages.
+
 ## 🧪 How to proceed
 
 - Start from a [clean Next.js app](https://nextjs.org/docs/getting-started) and follow the instructions below.
