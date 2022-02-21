@@ -7,7 +7,7 @@
 
 ## ❓ Why this challenge
 
-This coding challenge is designed to assess the skills of candidates in frontend application development. It is language/framework agnostic, but some instructions are specific for [Next.Js](https://nextjs.org), since it is the technology we use.
+This coding challenge is designed to assess the skills of candidates in frontend application development. It is language/framework agnostic, but some instructions are specific for [Next.js](https://nextjs.org), since it is the technology we use.
 
 ## 🏁 Challenge
 
