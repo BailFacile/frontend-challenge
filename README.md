@@ -11,7 +11,7 @@ This coding challenge is designed to assess the skills of candidates in frontend
 
 ## 🏁 Challenge
 
-Develop a React application that displays a list of applicants to rent a an appartment in a **sortable table**. Each applicant has details like a firstname, a lastname, a job title, a monthly salary, a guarantor (optional) and a preferred move in date.
+Develop a React application that displays a list of applicants to rent an appartment in a **sortable table**. Each applicant has details like a firstname, a lastname, a job title, a monthly salary, a guarantor (optional) and a preferred move in date.
 
 Mock data is available in the `applicants.json` file.
 
