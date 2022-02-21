@@ -11,14 +11,28 @@ This coding challenge is designed to assess the skills of candidates in frontend
 
 ## 🏁 Challenge
 
-Develop a React application that displays a list of applicants to rent a an appartment in a sortable table. Each applicant has details like a firstname, a lastname, a job title, a monthly salary, a guarantor (optional) and a preferred move in date.
+Develop a React application that displays a list of applicants to rent a an appartment in a **sortable table**. Each applicant has details like a firstname, a lastname, a job title, a monthly salary, a guarantor (optional) and a preferred move in date.
 
-We data that should be used is available in the attached applicants.json file.
+Mock data is available in the `applicants.json` file.
 
-When clicking on an applicant, details are displayed on the right side in a drawer component. We then have the possibility to add a rating to the application with a star system from 1 to 5.
+When clicking on an applicant, details are displayed on the right side in a drawer component. Inside this component we can add a rating to the application with a star system from 1 to 5. Ratings should be saved in state.
 
 ## Mockups
 
+### Main screen
+
 ![Main screen](/main-screen.png "Main screen")
 
+### With side drawer open
+
 ![Drawer open](/drawer-open.png "Drawer open")
+
+## 🧪 How to proceed
+
+- Start from a [clean Next.js app](https://nextjs.org/docs/getting-started) and follow the instructions below.
+
+- Your code should be as clean as possible and use a modern UI kit (like Bootstrap, Chakra UI or Ant Design, etc.).
+
+- You are free (and even encouraged) to use third-party packages if relevant. If you do, you should explain in your notes why you think each specific package is the best available one for the job.
+
+- **Please attach a read me file with any relevant comments, instructions, explanations to your final submission.**
