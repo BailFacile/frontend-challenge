@@ -17,7 +17,7 @@ Mock data is available in the `applicants.json` file.
 
 When clicking on an applicant in the table (each row should be clickable), **details are displayed on the right side in a drawer component**. Inside this component we can **add a rating to the application with a star system from 1 to 5**. Ratings should be saved in state.
 
-## Mockups
+## 🖼️ Mockups
 
 ### Main screen
 
